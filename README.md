@@ -1,7 +1,8 @@
 
+<img align='right'  src='https://user-images.githubusercontent.com/74632138/193364873-4710318a-71dc-494c-abf8-18933d39462d.png' width='350px' />  
 
 # Gustavo Murdiga
-<div style='display:flex;flex-direction:row;flex-wrap:nowrap; gap:10px; justify-content:space-between; align-items:flex-start;gap:10px;' >
+<div style='display:flex;flex-direction:row; gap:10px; justify-content:space-between; align-items:flex-start;gap:10px;' >
 <div>
 
 ### @ Developer Front-End 
@@ -20,7 +21,5 @@
 - 👨🏻‍🎓 I am currently completing my training in Data Architecture
 
 </div>
-
-<img src='https://user-images.githubusercontent.com/74632138/193364873-4710318a-71dc-494c-abf8-18933d39462d.png' width='350px' />  
 
 </div>
