@@ -17,7 +17,12 @@
 ### About me
 
 - 👨🏻‍💻 I’m currently working on at STi3 Sistemas
-- 📔  I’m currently learning  • REACT.js •REACT NATIVE • Node.Js • MONGO DB • NEXT.JS - EXPO
+- 📔  I’m currently learning 
+    - REACT.js 
+    - REACT NATIVE 
+    - Node.Js
+    - MONGO DB 
+    - NEXT.JS - EXPO
 - 👨🏻‍🎓 I am currently completing my training in Data Architecture
 
 </div>
