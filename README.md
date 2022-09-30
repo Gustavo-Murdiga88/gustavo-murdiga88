@@ -21,6 +21,6 @@
 
 </div>
 
-<img align='right'  src='https://user-images.githubusercontent.com/74632138/193364873-4710318a-71dc-494c-abf8-18933d39462d.png' width='350px' />  
+<img src='https://user-images.githubusercontent.com/74632138/193364873-4710318a-71dc-494c-abf8-18933d39462d.png' width='350px' />  
 
 </div>
