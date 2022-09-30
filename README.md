@@ -1,7 +1,7 @@
 
 
 # Gustavo Murdiga
-<div style='display:flex;flex-direction:row; gap:10px; justify-content:space-between; align-items:flex-start;gap:10px;' >
+<div style='display:flex;flex-direction:row;flex-wrap:nowrap; gap:10px; justify-content:space-between; align-items:flex-start;gap:10px;' >
 <div>
 
 ### @ Developer Front-End 
