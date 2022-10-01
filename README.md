@@ -23,7 +23,8 @@
     - REACT NATIVE 
     - Node.Js
     - MONGO DB 
-    - NEXT.JS - EXPO
+    - NEXT.JS
+    - EXPO
 - 👨🏻‍🎓 I am currently completing my training in Data Architecture
 
 </div>
