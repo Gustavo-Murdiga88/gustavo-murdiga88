@@ -13,7 +13,7 @@
 [![linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-murdiga-055470178/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GuMurdiga)
 
-***
+---
 ### About me
 
 - 👨🏻‍💻 I’m currently working on at STi3 Sistemas
