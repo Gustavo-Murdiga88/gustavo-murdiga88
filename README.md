@@ -1,7 +1,7 @@
 
 <img align='right' vspace='60' src='https://user-images.githubusercontent.com/74632138/193364873-4710318a-71dc-494c-abf8-18933d39462d.png' width='350px' />  
 
-<p style='font-size:24px;font-weight:bold;'>Gustavo Murdiga</p>
+*<p style='font-size:32px;'>Gustavo Murdiga</p>*
 
 ---
 
