@@ -17,7 +17,7 @@
 
 ### About me
 
-- 👨🏻‍💻 I’m currently working on at STi3 Sistemas
+- 👨🏻‍💻 I’m currently working on at Guarani Sistemas
 - 📔  I’m currently learning 
     - REACT.js 
     - REACT NATIVE 
