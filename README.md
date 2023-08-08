@@ -22,10 +22,8 @@
     - REACT.js 
     - REACT NATIVE 
     - Node.Js
-    - MONGO DB 
-    - NEXT.JS
-    - EXPO
-- 👨🏻‍🎓 I am currently completing my training in Data Architecture
+    - Flutter
+- 👨🏻‍🎓 I am a data architect
 
 </div>
 
