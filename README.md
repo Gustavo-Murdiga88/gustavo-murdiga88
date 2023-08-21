@@ -31,9 +31,4 @@
 </div>
 <br/>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gustavo-Murdiga88/gustavo-Murdiga88/blob/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gustavo-Murdiga88/gustavo-Murdiga88/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/gustavo-Murdiga88/gustavo-Murdiga88/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+![Snake animation](https://github.com/gustavo-Murdiga88/gustavo-Murdiga88/blob/output/github-contribution-grid-snake-dark.svg)
