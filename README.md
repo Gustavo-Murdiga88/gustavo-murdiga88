@@ -5,7 +5,6 @@
 **I'm a Front full-stack developer passionate about the best technologies on the market, motivated to develop applications that will make people's lives better and happier.** 
 
 \
-[![GitHub Gadge](https://img.shields.io/badge/GitHub-047857?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gustavo-Murdiga88)
 [![linkedin Badge](https://img.shields.io/badge/LinkedIn-047857?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-murdiga-055470178/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-047857?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GuMurdiga)
 
