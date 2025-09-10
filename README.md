@@ -2,7 +2,7 @@
 <div>
 
 ### @ Developer Front-End 
-**I'm a Front full-stack developer passionate about the best technologies on the market, motivated to develop applications that will make people's lives better and happier.** 
+**I'm a Full-stack developer passionate about the best technologies on the market, motivated to develop applications that will make people's lives better and happier.** 
 
 \
 [![linkedin Badge](https://img.shields.io/badge/LinkedIn-047857?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-murdiga-055470178/)
